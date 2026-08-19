@@ -276,7 +276,7 @@ h6 {
     padding: 180px 0 120px;
     color: #fff;
     overflow: hidden;
-    background: #333 url('image/hero-bg.png') no-repeat center center / cover;
+    background: #333 url('image/hero-bg.jpg') no-repeat center center / cover;
 }
 
 .hero-overlay {
@@ -1106,7 +1106,7 @@ h6 {
 /* Bottom CTA */
 .bottom-cta-section {
     padding: 100px 0;
-    background: url('image/lets-take.png') center/cover no-repeat;
+    background: url('image/lets-take.jpg') center/cover no-repeat;
 }
 
 .cta-banner {
